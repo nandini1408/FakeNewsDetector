@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.idea/
+.vscode/
+
+# NLTK data
+nltk_data/
+
+# Model and Vectorizer files
+*.pkl
+*.csv # If you don't want to upload your raw data (recommended for large datasets)
